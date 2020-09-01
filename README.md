@@ -13,7 +13,7 @@
 为了不让其他用户修改我的博客添加了管理员登录以及注销功能，登录之后展示博客管理模块可以发布、修改、删除、查询博客。分类管理模块可以新增、修改、删除、查询分类。标签管理模块可以新增、修改、删除、查询标签。
 
 
-![Image text](https://github.com/LSC02/myblog/blob/master/img/images/20200901211532.png)
+![Image text](https://github.com/LSC02/images/blob/master/20200901211532.png)
 
 
 
